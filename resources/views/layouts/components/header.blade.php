@@ -18,7 +18,7 @@
 					<div class="collapse navbar-collapse" id="navbarSupportedContent-4">
 						<div class="d-flex order-lg-2 m-4 m-lg-0 m-md-1">
 							<a href="/application" target="_blank" class="btn btn-pill btn-primary btn-w-md py-2">
-								இலவச பதிவுக்கு
+								Hotline Call
 							</a>
 						</div>
 					</div>
