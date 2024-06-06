@@ -22,10 +22,19 @@
 							<a class="side-menu__item" data-bs-toggle="slide" href="#Features"><span class="side-menu__label">Our Services</span></a>
 						</li>
 						<li class="slide">
-							<a class="side-menu__item" data-bs-toggle="slide" href="#Events"><span class="side-menu__label">Events</span></a>
+							<a class="side-menu__item" data-bs-toggle="slide" href="/airlineticket"><span class="side-menu__label">Airline Ticket</span></a>
 						</li>
 						<li class="slide">
-							<a class="side-menu__item" data-bs-toggle="slide" href="#Contact"><span class="side-menu__label">Contact</span></a>
+							<a class="side-menu__item" data-bs-toggle="slide" href="/visa"><span class="side-menu__label">VISA</span></a>
+						</li>
+						<li class="slide">
+							<a class="side-menu__item" data-bs-toggle="slide" href="/parcel"><span class="side-menu__label">Parcel</span></a>
+						</li>
+						<li class="slide">
+							<a class="side-menu__item" data-bs-toggle="slide" href="/transport"><span class="side-menu__label">Transport</span></a>
+						</li>
+						<li class="slide">
+							<a class="side-menu__item" data-bs-toggle="slide" href="/contact"><span class="side-menu__label">Contact</span></a>
 						</li>
 					</ul>
 					<div class="header-nav-right d-flex">

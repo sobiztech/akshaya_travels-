@@ -104,6 +104,62 @@
 </div>
 <!-- ROW-1 CLOSED -->
 
+<!-- Features -->
+<div class="section pb-7 bg-teal-gradient" id="Features">
+	<div class="container px-5 px-md-0">
+		<div class="row text-center justify-content-center">
+			<div class="col-lg-8 ps-4">
+				<h3 class="header-family text-warning">Services</h3>
+				<p class="text-default text-white sub-text">We are dedicated to providing comprehensive and reliable travel services
+					to meet all your needs.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12 col-md-4 p-4 fanimate">
+				<div class="features-icon text-white" style="display: flex; align-items: center;">
+					<img src="../assets/images/pngs/airlinetickets.png" alt="Feature Icon" style="width: 50px;height: 50px;">
+					<h2 class="mx-1">Airline Ticket</h2>
+				</div>
+
+				<p class="text-default text-justify text-white sub-text mb-0">We offer efficient and cost-effective airline ticket booking services,
+					ensuring you get the best deals and convenient flight options for both domestic and international travel.</p>
+				<a href="#" class="btn btn-primary  mt-2">View More</a>
+			</div>
+
+			<div class="col-12 col-md-4 p-4 fanimate">
+				<div class="features-icon text-white" style="display: flex; align-items: center;">
+					<img src="../assets/images/pngs/visa.png" alt="Feature Icon" style="width: 50px;height: 50px;">
+					<h2 class="mx-1">VISA</h2>
+				</div>
+				<p class="text-default text-justify text-white sub-text mb-0">Our experienced team assists you in obtaining visas for various
+					countries, guiding you through the application process to ensure a smooth and hassle-free experience.</p>
+				<a href="#" class="btn btn-primary  mt-2">View More</a>
+			</div>
+
+			<div class="col-12 col-md-4 p-4 fanimate">
+				<div class="features-icon text-white" style="display: flex; align-items: center;">
+					<img src="../assets/images/pngs/packagedelivery.png" alt="Feature Icon" style="width: 50px;height: 50px;">
+					<h2 class="mx-1">Package Delivery</h2>
+				</div>
+				<p class="text-default text-justify text-white sub-text mb-0">We provide secure and timely package delivery services within Sri Lanka
+					and to international destinations. Whether it’s personal belongings or business goods, we ensure your packages reach their destination safely.</p>
+				<a href="#" class="btn btn-primary  mt-2">View More</a>
+			</div>
+
+			<div class="col-12 col-md-4 p-4 fanimate">
+				<div class="features-icon text-white" style="display: flex; align-items: center;">
+					<img src="../assets/images/pngs/packagedelivery.png" alt="Feature Icon" style="width: 50px;height: 50px;">
+					<h2 class="mx-1">Transport</h2>
+				</div>
+				<p class="text-default text-justify text-white sub-text mb-0">We provide secure and timely Transport services within Sri Lanka. 
+					Whether it’s personal belongings or Airport, we ensure your passengers reach their destination safely.</p>
+				<a href="#" class="btn btn-primary  mt-2">View More</a>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Features Close -->
+
 <!-- About Us section-->
 <div class="section pb-5">
 	<div class="container px-5 px-md-0" id="About">
@@ -119,52 +175,6 @@
 	</div>
 </div>
 <!-- About Us Close-->
-
-<!-- Features -->
-<div class="section pb-7 bg-teal-gradient" id="Features">
-	<div class="container px-5 px-md-0">
-		<div class="row text-center justify-content-center">
-			<div class="col-lg-8 ps-4">
-				<h3 class="header-family text-warning">Services</h3>
-				<p class="text-default text-white sub-text">We are dedicated to providing comprehensive and reliable travel services
-					to meet all your needs.</p>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-12 col-md-4 p-4 fanimate">
-				<div class="features-icon text-white" style="display: flex; align-items: center;">
-					<img src="../assets/images/pngs/airlinetickets.png" alt="Feature Icon" style="width: 100px;height: 100px;">
-					<h2 class="mx-1">Airline Ticket</h2>
-				</div>
-
-				<p class="text-default text-justify text-white sub-text mb-0">We offer efficient and cost-effective airline ticket booking services,
-					ensuring you get the best deals and convenient flight options for both domestic and international travel.</p>
-				<a class="mx-1" href="#">Read More <i class="fe fe-chevron-right"></i></a>
-			</div>
-
-			<div class="col-12 col-md-4 p-4 fanimate">
-				<div class="features-icon text-white" style="display: flex; align-items: center;">
-					<img src="../assets/images/pngs/visa.png" alt="Feature Icon" style="width: 100px;height: 100px;">
-					<h2 class="mx-1">VISA</h2>
-				</div>
-				<p class="text-default text-justify text-white sub-text mb-0">Our experienced team assists you in obtaining visas for various
-					countries, guiding you through the application process to ensure a smooth and hassle-free experience.</p>
-				<a class="mx-1" href="#">Read More <i class="fe fe-chevron-right"></i></a>
-			</div>
-
-			<div class="col-12 col-md-4 p-4 fanimate">
-				<div class="features-icon text-white" style="display: flex; align-items: center;">
-					<img src="../assets/images/pngs/packagedelivery.png" alt="Feature Icon" style="width: 100px;height: 100px;">
-					<h2 class="mx-1">Package Delivery</h2>
-				</div>
-				<p class="text-default text-justify text-white sub-text mb-0">We provide secure and timely package delivery services within Sri Lanka
-					and to international destinations. Whether it’s personal belongings or business goods, we ensure your packages reach their destination safely.</p>
-				<a class="mx-1" href="#">Read More <i class="fe fe-chevron-right"></i></a>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- Features Close -->
 
 <!-- Partners-->
 <div class="section" id="Events">
@@ -228,39 +238,6 @@
 	</div>
 </div>
 <!-- Partners Close-->
-
-<!--Support-->
-<div class="demo-screen-skin bg-primary">
-	<div class="container text-center text-white px-5 px-md-0">
-		<div id="demo" class="row">
-			<div class="col-lg-6">
-				<div class="feature-1">
-					<a href="#"></a>
-					<div class="mb-3">
-						<i class="si si-earphones-alt"></i>
-					</div>
-					<h4 class="fs-25">உதவி</h4>
-					<p class="mb-1 text-white">உதவி தேவையா? கவலைப்படவேண்டாம்.
-						எங்கள் அர்ப்பணிப்பு உள்ள குழு உங்களுக்கு உதவும்.</p>
-					<h6 class="mb-0">உதவி : <a class="text-dark" href="mailto:support@spruko.com">support@vaddupreschool.com</a></h6>
-				</div>
-			</div>
-			<div class="col-lg-6 mt-5 mt-xl-0 mt-lg-0">
-				<div class="feature-1">
-					<a href="#"></a>
-					<div class="mb-3">
-						<i class="si si-bubbles"></i>
-					</div>
-					<h4 class="fs-25">விசாரணை</h4>
-					<p class="mb-1 text-white">உங்கள் குழந்தையை எமது முன்பள்ளியில் சேர்க்க முன் ஏதேனும்
-						கேள்விகள் இருப்பின் கேட்க தயங்க வேண்டாம்.</p>
-					<h6 class="mb-0">அழைப்பு : <a class="text-dark" href="mailto:support@spruko.com">support@spruko.com</a></h6>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--Support close-->
 
 @endsection
 

@@ -17,7 +17,25 @@ Route::get('/', function () {
     return view('pages.index');
 });
 
-Route::get('/application', function () {
-    return view('pages.application');
+Route::get('/contact', function () {
+    return view('pages.contact');
 });
+
+Route::get('/airlineticket', function () {
+    return view('pages.airlineticket');
+});
+
+Route::get('/parcel', function () {
+    return view('pages.parcel');
+});
+
+Route::get('/transport', function () {
+    return view('pages.transport');
+});
+
+Route::get('/visa', function () {
+    return view('pages.visa');
+});
+
+
 
