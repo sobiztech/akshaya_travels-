@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('pages.index');
 });
 
+Route::get('/about', function () {
+    return view('pages.about');
+});
+
 Route::get('/contact', function () {
     return view('pages.contact');
 });
@@ -36,6 +40,15 @@ Route::get('/transport', function () {
 Route::get('/visa', function () {
     return view('pages.visa');
 });
+
+Route::get('/event', function () {
+    return view('pages.event');
+});
+
+Route::get('/sabarimalai', function () {
+    return view('pages.sabarimalai');
+});
+
 
 
 

@@ -11,18 +11,9 @@
 			<!-- LOGO -->
 
 			<div class="d-flex order-lg-2 ms-auto header-right-icons">
-				<button class="navbar-toggler navresponsive-toggler d-md-none ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent-4" aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon fe fe-more-vertical"></span>
+				<button class="navbar-toggler navresponsive-toggler d-md-none ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent-4" aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation" disabled>
+				<span class="i-feather:more-vertical w-1em h-1em" style="color: white;"></span>
 				</button>
-				<div class="navbar navbar-collapse responsive-navbar p-0">
-					<div class="collapse navbar-collapse" id="navbarSupportedContent-4">
-						<div class="d-flex order-lg-2 m-4 m-lg-0 m-md-1">
-							<a href="/application" target="_blank" class="btn btn-pill btn-primary btn-w-md py-2">
-								Hotline Call
-							</a>
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>

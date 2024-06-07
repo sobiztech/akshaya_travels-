@@ -6,7 +6,7 @@
 
 @section('content')
 
-<!-- Header Main-->
+<!-- Header Main -->
 <div class="demo-screen-headline main-demo main-demo-1 overflow-hidden pb-0 mb-6" id="home">
 	<div class="container px-5 px-md-0">
 		<div class="overflow-hidden">
@@ -51,9 +51,9 @@
 		</div>
 	</div>
 </div>
-<!-- Header Main Close-->
+<!-- Header Main close -->
 
-<!-- ROW-1 OPEN-->
+<!-- statistic Info -->
 <div class="row bg-teal-gradient">
 	<div class="col-lg-12">
 		<div class="card">
@@ -102,9 +102,9 @@
 		</div>
 	</div><!-- COL-END -->
 </div>
-<!-- ROW-1 CLOSED -->
+<!-- statistic Info close -->
 
-<!-- Features -->
+<!-- Service -->
 <div class="section pb-7 bg-teal-gradient" id="Features">
 	<div class="container px-5 px-md-0">
 		<div class="row text-center justify-content-center">
@@ -148,7 +148,7 @@
 
 			<div class="col-12 col-md-4 p-4 fanimate">
 				<div class="features-icon text-white" style="display: flex; align-items: center;">
-					<img src="../assets/images/pngs/packagedelivery.png" alt="Feature Icon" style="width: 50px;height: 50px;">
+					<img src="../assets/images/pngs/transport.png" alt="Feature Icon" style="width: 50px;height: 50px;">
 					<h2 class="mx-1">Transport</h2>
 				</div>
 				<p class="text-default text-justify text-white sub-text mb-0">We provide secure and timely Transport services within Sri Lanka. 
@@ -158,11 +158,11 @@
 		</div>
 	</div>
 </div>
-<!-- Features Close -->
+<!-- Service close -->
 
-<!-- About Us section-->
+<!-- About Us-->
 <div class="section pb-5">
-	<div class="container px-5 px-md-0" id="About">
+	<div class="container px-5 px-md-0">
 		<div class="row justify-content-center text-center">
 			<div class="col-lg-8 ps-4 mb-lg-0- mb-4">
 				<h3 class="header-family text-warning">About Us</h3>
@@ -174,16 +174,16 @@
 		</div>
 	</div>
 </div>
-<!-- About Us Close-->
+<!-- About Us close -->
 
-<!-- Partners-->
-<div class="section" id="Events">
+<!-- Partner -->
+<div class="section">
 	<div class="container px-5 px-md-0">
 		<div class="row justify-content-center text-center">
-			<div class="col-lg-8 text-center">
+			<div class="col-lg-8 ps-4 mb-lg-0- mb-4">
 				<h3 class="header-family text-warning">Partners</h3>
-				<p class="sub-text text-white text-justify pb-3">Partnering with leading airlines and courier services, our travel
-					agency ensures seamless travel experiences, meticulously curated to meet the highest standards of quality and satisfaction,
+				<p class="text-default sub-text text-white text-justify mb-0">Partnering with leading airlines and courier services, our travel \
+					agency ensures seamless travel experiences, meticulously curated to meet the highest standards of quality and satisfaction, 
 					enhancing your journey from start to finish.</p>
 			</div>
 		</div>
@@ -237,7 +237,7 @@
 		</div>
 	</div>
 </div>
-<!-- Partners Close-->
+<!-- Partner Close -->
 
 @endsection
 

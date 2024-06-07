@@ -13,13 +13,13 @@
 					</a>
 					<ul class="side-menu">
 						<li class="slide">
-							<a class="side-menu__item active" data-bs-toggle="slide" href="#home"><span class="side-menu__label">Home</span></a>
+							<a class="side-menu__item active" data-bs-toggle="slide" href="/"><span class="side-menu__label">Home</span></a>
 						</li>
 						<li class="slide">
-							<a class="side-menu__item" data-bs-toggle="slide" href="#About"><span class="side-menu__label">About Us</span></a>
+							<a class="side-menu__item" data-bs-toggle="slide" href="/about"><span class="side-menu__label">About Us</span></a>
 						</li>
 						<li class="slide">
-							<a class="side-menu__item" data-bs-toggle="slide" href="#Features"><span class="side-menu__label">Our Services</span></a>
+							<a class="side-menu__item" data-bs-toggle="slide" href="/sabarimalai"><span class="side-menu__label">சபரிமலை யாத்திரை</span></a>
 						</li>
 						<li class="slide">
 							<a class="side-menu__item" data-bs-toggle="slide" href="/airlineticket"><span class="side-menu__label">Airline Ticket</span></a>
@@ -34,13 +34,14 @@
 							<a class="side-menu__item" data-bs-toggle="slide" href="/transport"><span class="side-menu__label">Transport</span></a>
 						</li>
 						<li class="slide">
+							<a class="side-menu__item" data-bs-toggle="slide" href="/event"><span class="side-menu__label">Event</span></a>
+						</li>
+						<li class="slide">
 							<a class="side-menu__item" data-bs-toggle="slide" href="/contact"><span class="side-menu__label">Contact</span></a>
 						</li>
 					</ul>
 					<div class="header-nav-right d-flex">
-						<a href="/application" target="_blank" class="btn btn-pill btn-primary btn-w-md py-2 my-auto d-lg-none d-xl-block d-block">
-							Hotline Call
-						</a>
+						
 					</div>
 				</div>
 			</div>

@@ -161,8 +161,6 @@
 </div>
 <!--Contact close-->
 
-
-
 @endsection
 
 @section('modal')
