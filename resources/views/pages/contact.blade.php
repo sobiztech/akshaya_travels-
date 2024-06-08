@@ -21,14 +21,14 @@
 </div>
 
 <!-- Contact-->
-<div class="section bg-image-landing">
+<!-- <div class="section bg-image-landing"> -->
     <div class="container px-5 px-md-0">
         <div class="row">
             <div class="card mt-3 mb-0">
                 <div class="card-body text-white px-0 pb-0">
                     <div class="statistics-info">
                         <div class="col-xl-12 col-12">
-                            <div class="row">
+                            <div class="row mb-2">
                                 <div class="col-xl-6 col-md-12 col-sm-12">
                                     <div class="services-statistics">
                                         <div class="row">
@@ -105,6 +105,40 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class="col-6">
+                                                <div class="card p-0">
+                                                    <div class="card-body p-0">
+                                                        <div class="row">
+                                                            <div class="col-xl-3 col-md-3 col-sm-3">
+                                                                <div class="counter-icon border border-primary text-primary">
+                                                                    <i class="fe fe-facebook"></i>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xl-3 col-md-3 col-sm-3">
+                                                                <div class="counter-icon border border-primary text-primary">
+                                                                    <i class="fe fe-whatsapp"></i>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xl-3 col-md-3 col-sm-3">
+                                                                <div class="counter-icon border border-primary text-primary">
+                                                                    <i class="fe fe-instagram"></i>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xl-3 col-md-3 col-sm-3">
+                                                                <div class="counter-icon border border-primary text-primary">
+                                                                    <i class="fe fe-twitter"></i>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xl-3 col-md-3 col-sm-3">
+                                                                <div class="counter-icon border border-primary text-primary">
+                                                                    <i class="fe fe-linkedin"></i>
+                                                                </div>
+                                                            </div>
+                                    
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-xl-12 col-md-12 col-sm-12">
@@ -158,7 +192,7 @@
             </div>
         </div>
     </div>
-</div>
+<!-- </div> -->
 <!--Contact close-->
 
 @endsection

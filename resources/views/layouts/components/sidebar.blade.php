@@ -18,9 +18,9 @@
 						<li class="slide">
 							<a class="side-menu__item" data-bs-toggle="slide" href="/about"><span class="side-menu__label">About Us</span></a>
 						</li>
-						<li class="slide">
+						<!-- <li class="slide">
 							<a class="side-menu__item" data-bs-toggle="slide" href="/sabarimalai"><span class="side-menu__label">சபரிமலை யாத்திரை</span></a>
-						</li>
+						</li> -->
 						<li class="slide">
 							<a class="side-menu__item" data-bs-toggle="slide" href="/airlineticket"><span class="side-menu__label">Airline Ticket</span></a>
 						</li>
@@ -31,7 +31,7 @@
 							<a class="side-menu__item" data-bs-toggle="slide" href="/parcel"><span class="side-menu__label">Parcel</span></a>
 						</li>
 						<li class="slide">
-							<a class="side-menu__item" data-bs-toggle="slide" href="/transport"><span class="side-menu__label">Transport</span></a>
+							<a class="side-menu__item" data-bs-toggle="slide" href="/transport"><span class="side-menu__label">Vechile hire</span></a>
 						</li>
 						<li class="slide">
 							<a class="side-menu__item" data-bs-toggle="slide" href="/event"><span class="side-menu__label">Event</span></a>

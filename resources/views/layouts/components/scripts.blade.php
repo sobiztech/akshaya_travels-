@@ -28,6 +28,9 @@
 <script src="../assets/plugins/sweet-alert/sweetalert.min.js"></script>
 <script src="../assets/plugins/sweet-alert/jquery.sweet-alert.js"></script>
 
+<!-- BLOG DETAILS JS-->
+<script src="../assets/js/blog-details.js"></script>
+
 <!-- GALLERY JS -->
 <script src="../assets/plugins/gallery/picturefill.js"></script>
 <script src="../assets/plugins/gallery/lightgallery.js"></script>
