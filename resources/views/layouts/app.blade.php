@@ -24,7 +24,7 @@
     <!-- /GLOBAL-LOADER -->
 
     <!-- PAGE -->
-    <div class="page bg-success-gradient">
+    <div class="page bg-purple-gradient">
         <div class="page-main">
 
             @include('layouts.components.header')

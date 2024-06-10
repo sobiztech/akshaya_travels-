@@ -6,7 +6,7 @@
 
 @section('content')
 
-<div class="row bg-teal-gradient">
+<div class="row bg-info-gradient">
     <div class="col-lg-12">
         <div class="card">
             <div class="card-body p-4 text-white">
@@ -30,6 +30,12 @@
                     <div class="row mb-2">
                         <div class="col-lg-6 text-left pos-relative overflow-hidden p-3">
                             <h3 class="header-family text-warning">Get the lowest airfares to all countries with us!</h3>
+                            <div class="mb-2">
+                                <span>Contact our consultant: </span>
+                                <a href="/airlineticketreservationform" target="_blank" class="btn btn-lg btn-primary-gradient text-white ms-2">
+                                    Reserve Your Slot
+                                </a>
+                            </div>
                             <p class="text-default text-white text-justify sub-text mb-2">Enjoy top-notch seating and first-class services tailored to your preferences.
                                 We provide complimentary in-flight meals for your comfort. Flexibility with ticket dates is available to
                                 match your schedule.</p>

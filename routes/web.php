@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// pages
 Route::get('/', function () {
     return view('pages.index');
 });
@@ -21,8 +22,8 @@ Route::get('/about', function () {
     return view('pages.about');
 });
 
-Route::get('/contact', function () {
-    return view('pages.contact');
+Route::get('/sabarimalai', function () {
+    return view('pages.sabarimalai');
 });
 
 Route::get('/airlineticket', function () {
@@ -45,8 +46,29 @@ Route::get('/event', function () {
     return view('pages.event');
 });
 
-Route::get('/sabarimalai', function () {
-    return view('pages.sabarimalai');
+Route::get('/contact', function () {
+    return view('pages.contact');
+});
+
+// form
+Route::get('/airlineticketreservationform', function () {
+    return view('forms.airlineticketreservationform');
+});
+
+Route::get('/parcelreservationform', function () {
+    return view('forms.parcelreservationform');
+});
+
+Route::get('/visaformreservationform', function () {
+    return view('forms.transportreservationform');
+});
+
+Route::get('/visareservationform', function () {
+    return view('forms.visareservationform');
+});
+
+Route::get('/sabarimalaireservationform', function () {
+    return view('forms.sabarimalaireservationform');
 });
 
 

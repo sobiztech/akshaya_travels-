@@ -6,7 +6,7 @@
 
 @section('content')
 
-<div class="row bg-teal-gradient">
+<div class="row bg-info-gradient">
     <div class="col-lg-12">
         <div class="card">
             <div class="card-body p-4 text-white">
@@ -31,6 +31,12 @@
                         <div class="row mb-2">
                             <div class="col-lg-6 text-left pos-relative overflow-hidden p-3">
                                 <h3 class="header-family text-warning">Explore the World: Get Your Visa at Unbeatable Rates!</h3>
+                                <div class="mb-2">
+                                    <span>Contact our consultant: </span>
+                                    <a href="/visareservationform" target="_blank" class="btn btn-lg btn-primary-gradient text-white ms-2">
+                                        Reserve Your Slot
+                                    </a>
+                                </div>
                                 <p class="text-default text-white text-justify sub-text mb-2">Unlock the world with our unbeatable visa deals!
                                     Explore global destinations without breaking the bank. Our post-visa services ensure a hassle-free travel
                                     experience. Say goodbye to hidden fees and hello to seamless visa applications. Experience the freedom to
@@ -107,7 +113,8 @@
                                     <div class="card overflow-hidden box-shadow mb-0 main-blog">
                                         <a href="" class="background-image-blog img4 mb-0">
                                             <img src="./assets/images/events/feasthall/nallur1.jfif" class="background-image-blog img3 mb-0" alt="...">
-                                            <span class="badge rounded-pill bg-info-gradient blog-label label2">Normal VISA</span>
+                                            <span class="badge rounded-pill bg-info-gradient blog-label label2">Tourist VISA / Visitor VISA</span>
+
                                         </a>
                                         <div class="card-body p-0 border border-top-0 br-br-5 br-bl-5">
                                             <div class="p-5 border-bottom">

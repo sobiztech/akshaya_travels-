@@ -54,7 +54,7 @@
 <!-- Header Main close -->
 
 <!-- statistic Info -->
-<div class="row bg-teal-gradient">
+<div class="row bg-info-gradient">
 	<div class="col-lg-12">
 		<div class="card">
 			<div class="card-body p-4 text-dark">
@@ -178,7 +178,8 @@
 						</div>
 					</div>
 				</div>
-				<a href="/airlineticket" class="btn btn-primary  mt-2">View More</a>
+				<span><a href="/airlineticket" target="_blank" class="btn btn-primary ms-2">View More</a></span>
+				<a href="/airlineticketreservationform" target="_blank" class="btn btn-primary-gradient ms-2">Reserve Your Slot</a>
 			</div>
 			<div class="col-12 col-md-4 p-4 fanimate">
 				<div class="features-icon text-white" style="display: flex; align-items: center;">
@@ -187,7 +188,7 @@
 				</div>
 				<p class="text-default text-justify text-white sub-text mb-0">Our experienced team assists you in obtaining visas for various
 					countries, guiding you through the application process to ensure a smooth and hassle-free experience.</p>
-					<div class="text-white">
+				<div class="text-white">
 					<div class="d-flex">
 						<span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
 								<path fill="#8fbd56" d="M10.3125,16.09375a.99676.99676,0,0,1-.707-.293L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328l-6.1875,6.1875A.99676.99676,0,0,1,10.3125,16.09375Z" opacity=".99" />
@@ -243,8 +244,8 @@
 						</div>
 					</div>
 				</div>
-
-				<a href="/visa" class="btn btn-primary  mt-2">View More</a>
+				<span><a href="/visa" target="_blank" class="btn btn-primary ms-2">View More</a></span>
+				<a href="/visareservationform" target="_blank" class="btn btn-primary-gradient ms-2">Reserve Your Slot</a>
 			</div>
 			<div class="col-12 col-md-4 p-4 fanimate">
 				<div class="features-icon text-white" style="display: flex; align-items: center;">
@@ -300,7 +301,8 @@
 						</div>
 					</div>
 				</div>
-				<a href="/parcel" class="btn btn-primary  mt-2">View More</a>
+				<span><a href="/parcel" target="_blank" class="btn btn-primary ms-2">View More</a></span>
+				<a href="/parcelreservationform" target="_blank" class="btn btn-primary-gradient ms-2">Reserve Your Slot</a>
 			</div>
 			<div class="col-12 col-md-4 p-4 fanimate">
 				<div class="features-icon text-white" style="display: flex; align-items: center;">
@@ -365,7 +367,8 @@
 						</div>
 					</div>
 				</div>
-				<a href="/transport" class="btn btn-primary  mt-2">View More</a>
+				<span><a href="/transport" target="_blank" class="btn btn-primary ms-2">View More</a></span>
+				<a href="/transportreservationform" target="_blank" class="btn btn-primary-gradient ms-2">Reserve Your Slot</a>
 			</div>
 		</div>
 	</div>
@@ -373,7 +376,7 @@
 <!-- Service close -->
 
 <!-- About Us-->
-<div class="section pb-5 bg-teal-gradient">
+<div class="section pb-5 bg-info-gradient">
 	<div class="container px-5 px-md-0">
 		<div class="row justify-content-center text-center">
 			<div class="col-lg-8 ps-4 mb-lg-0- mb-4">

@@ -6,7 +6,7 @@
 
 @section('content')
 
-<div class="row bg-teal-gradient">
+<div class="row bg-info-gradient">
     <div class="col-lg-12">
         <div class="card">
             <div class="card-body p-4 text-white">

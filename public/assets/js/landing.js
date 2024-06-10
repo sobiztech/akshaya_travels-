@@ -274,26 +274,54 @@ reveal();
 
 
 // section menu active
-function onScroll(event) {
+document.addEventListener("DOMContentLoaded", function() {
+    // Function to update the active class based on the current path
+    function updateActiveMenu() {
+        const menuItems = document.querySelectorAll(".side-menu__item");
+        const currentPath = window.location.pathname;
+
+        menuItems.forEach((menuItem) => {
+            // Get the href attribute of the menu item
+            const href = menuItem.getAttribute("href");
+
+            // If the current path matches the href, add the active class
+            if (href === currentPath) {
+                menuItem.classList.add("active");
+            } else {
+                menuItem.classList.remove("active");
+            }
+        });
+    }
+
+    // Initial call to update the active menu item
+    updateActiveMenu();
+    
+    // Listen for scroll events and update the active menu item
+    window.addEventListener("scroll", onScroll);
+});
+
+// Function to handle the scroll event and update the active menu item
+function onScroll() {
     const sections = document.querySelectorAll(".side-menu__item");
-    const scrollPos =
-        window.pageYOffset ||
+    const scrollPos = window.pageYOffset ||
         document.documentElement.scrollTop ||
         document.body.scrollTop;
 
     sections.forEach((elem) => {
         const val = elem.getAttribute("href");
         const refElement = document.querySelector(val);
-        const scrollTopMinus = scrollPos + 73;
-        if (
-            refElement.offsetTop <= scrollTopMinus &&
-            refElement.offsetTop + refElement.offsetHeight > scrollTopMinus
-        ) {
-            elem.classList.add("active");
-        } else {
-            elem.classList.remove("active");
+        if (refElement) {
+            const scrollTopMinus = scrollPos + 73;
+            if (
+                refElement.offsetTop <= scrollTopMinus &&
+                refElement.offsetTop + refElement.offsetHeight > scrollTopMinus
+            ) {
+                elem.classList.add("active");
+            } else {
+                elem.classList.remove("active");
+            }
         }
-    })
+    });
 }
 window.document.addEventListener("scroll", onScroll);
 

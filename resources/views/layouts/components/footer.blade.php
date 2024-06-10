@@ -1,5 +1,5 @@
 <!--Support-->
-<div class="demo-screen-skin bg-teal-gradient">
+<div class="demo-screen-skin bg-info-gradient">
 	<div class="container text-center text-white px-5 px-md-0">
 		<div id="demo" class="row">
 			<div class="col-lg-6">
