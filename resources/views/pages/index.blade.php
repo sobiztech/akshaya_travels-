@@ -129,7 +129,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Lowest Airfares</span></p>
+							<p><span style="font-weight: bold;">Lowest Airfares: </span>Affordable tickets to every destination.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -138,7 +138,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Premium Services</span>.</p>
+							<p><span style="font-weight: bold;">Premium Services: </span>Choose from a variety of seating options and enjoy first-class treatment.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -147,7 +147,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Free In-Flight Meals</span>.</p>
+							<p><span style="font-weight: bold;">Free In-Flight Meals: </span>Complimentary meal services on your journey.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -156,7 +156,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Flexible Dates</span>.</p>
+							<p><span style="font-weight: bold;">Flexible Dates: </span>Change your travel dates as per your needs.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -165,7 +165,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Generous Baggage Allowance</span>.</p>
+							<p><span style="font-weight: bold;">Generous Baggage Allowance: </span>Carry more luggage compared to others.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -174,7 +174,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Easy Online Booking</span>.</p>
+							<p><span style="font-weight: bold;">Easy Online Booking: </span>Convenient ticket booking from the comfort of your home.</p>
 						</div>
 					</div>
 				</div>
@@ -184,7 +184,7 @@
 			<div class="col-12 col-md-4 p-4 fanimate">
 				<div class="features-icon text-white" style="display: flex; align-items: center;">
 					<img src="../assets/images/pngs/visa.png" alt="Feature Icon" style="width: 50px;height: 50px;">
-					<h2 class="mx-1">VISA</h2>
+					<h2 class="mx-1">Tourist / Student Visa</h2>
 				</div>
 				<p class="text-default text-justify text-white sub-text mb-0">Our experienced team assists you in obtaining visas for various
 					countries, guiding you through the application process to ensure a smooth and hassle-free experience.</p>
@@ -195,7 +195,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Srilankan Visa</span></p>
+							<p><span style="font-weight: bold;">Professional Visa Assistance: </span>Receive expert guidance and support for your visa applications</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -204,7 +204,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Indian Visa</span>.</p>
+							<p><span style="font-weight: bold;">Country-Specific Visa Information: </span>Access detailed information on visa requirements for various countries.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -213,7 +213,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Thailand Visa</span>.</p>
+							<p><span style="font-weight: bold;">Efficient Processing and Submission: </span>Enjoy quick and efficient visa application processing.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -222,7 +222,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">France Visa</span>.</p>
+							<p><span style="font-weight: bold;">Comprehensive Document Services: </span>Benefit from thorough document verification and submission services.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -231,7 +231,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">American Visa</span>.</p>
+							<p><span style="font-weight: bold;">Regular Updates: </span>Get timely updates on the progress of your visa application.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -240,7 +240,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Netherland Visa & more</span>.</p>
+							<p><span style="font-weight: bold;">Travel Insurance Advice: </span>Receive guidance on travel insurance for your visa application.</p>
 						</div>
 					</div>
 				</div>
@@ -261,7 +261,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Swift Delivery</span></p>
+							<p><span style="font-weight: bold;">Fast and Reliable Shipping: </span>Ensure your parcels are delivered quickly and securely.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -270,7 +270,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Safety First</span>.</p>
+							<p><span style="font-weight: bold;">International and Domestic Services: </span>Ship parcels locally and globally with ease.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -279,7 +279,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Free In-Flight Meals</span>.</p>
+							<p><span style="font-weight: bold;">Customizable Delivery Options: </span>Select delivery services tailored to your specific needs.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -288,7 +288,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Government Approved</span>.</p>
+							<p><span style="font-weight: bold;">Competitive Rates: </span>Benefit from affordable pricing and flexible shipping plans.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -297,7 +297,16 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Generous Baggage Allowance</span>.</p>
+							<p><span style="font-weight: bold;">Professional Packaging: </span>Secure your parcels with our expert packaging services.</p>
+						</div>
+					</div>
+					<div class="d-flex">
+						<span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+								<path fill="#8fbd56" d="M10.3125,16.09375a.99676.99676,0,0,1-.707-.293L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328l-6.1875,6.1875A.99676.99676,0,0,1,10.3125,16.09375Z" opacity=".99" />
+								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
+							</svg></span>
+						<div class="ms-3">
+							<p><span style="font-weight: bold;">Convenient Door-to-Door Service: </span>Enjoy the ease of having your parcels picked up and delivered directly.</p>
 						</div>
 					</div>
 				</div>
@@ -318,7 +327,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Reliability</span></p>
+							<p><span style="font-weight: bold;">Diverse Vehicle Options: </span>Choose the perfect vehicle for your travel needs from our extensive fleet.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -327,7 +336,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Safety</span>.</p>
+							<p><span style="font-weight: bold;">Experienced Drivers: </span>Enjoy a safe and relaxing journey with our professional drivers.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -336,7 +345,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Convenience</span>.</p>
+							<p><span style="font-weight: bold;">Flexible Rental Plans: </span>Opt for rental durations that match your schedule, whether short-term or long-term.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -345,7 +354,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Comfort</span>.</p>
+							<p><span style="font-weight: bold;">Transparent Pricing: </span>Benefit from affordable rates with clear, upfront pricing.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -354,7 +363,7 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Affordability</span>.</p>
+							<p><span style="font-weight: bold;">Affordability: </span>Benefit from competitive pricing with no hidden fees, ensuring you get the best value for your money.</p>
 						</div>
 					</div>
 					<div class="d-flex">
@@ -363,7 +372,16 @@
 								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
 							</svg></span>
 						<div class="ms-3">
-							<p><span style="font-weight: bold;">Customer Satisfaction</span>.</p>
+							<p><span style="font-weight: bold;">Efficient Airport Transfers: </span>Experience seamless transfers to and from the airport.</p>
+						</div>
+					</div>
+					<div class="d-flex">
+						<span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+								<path fill="#8fbd56" d="M10.3125,16.09375a.99676.99676,0,0,1-.707-.293L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328l-6.1875,6.1875A.99676.99676,0,0,1,10.3125,16.09375Z" opacity=".99" />
+								<path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
+							</svg></span>
+						<div class="ms-3">
+							<p><span style="font-weight: bold;">Group Travel Solutions: </span>Travel comfortably with our vehicles designed for group transportation.</p>
 						</div>
 					</div>
 				</div>
@@ -397,7 +415,7 @@
 		<div class="row justify-content-center text-center">
 			<div class="col-lg-8 ps-4 mb-lg-0- mb-4">
 				<h3 class="header-family text-warning">Partners</h3>
-				<p class="text-default sub-text text-white text-justify mb-0">Partnering with leading airlines and courier services, our travel \
+				<p class="text-default sub-text text-white text-justify mb-0">Partnering with leading airlines and courier services, our travel /
 					agency ensures seamless travel experiences, meticulously curated to meet the highest standards of quality and satisfaction,
 					enhancing your journey from start to finish.</p>
 			</div>

@@ -19,8 +19,8 @@ $(function (e) {
 	function select2Style1(data) {
 		if (!data.id) { return data.text; }
 		var $data = $(
-			'<span><img src="../assets/images/users/' + data.element.value.toLowerCase() + '.jpg" class="rounded-circle avatar-sm" /> '
-			+ data.text + '</span>'
+			'<span> '+ data.text + '</span>'
+			// <img src="../assets/images/users/' + data.element.value.toLowerCase() + '.jpg" class="rounded-circle avatar-sm" />
 		);
 		return $data;
 	};

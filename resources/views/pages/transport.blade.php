@@ -30,12 +30,12 @@
                     <div class="row mb-2">
                         <div class="col-lg-6 text-left pos-relative overflow-hidden p-3">
                             <h3 class="header-family text-warning">Fast and Secure Transport Service Across Sri Lanka!</h3>
-                            <div class="mb-2">
+                            <!-- <div class="mb-2">
                                 <span>Contact our consultant: </span>
                                 <a href="/transportreservationform" target="_blank" class="btn btn-lg btn-primary-gradient text-white ms-2">
                                     Reserve Your Slot
                                 </a>
-                            </div>
+                            </div> -->
                             <p class="text-default text-white text-justify sub-text mb-2">We offer a range of travel solutions tailored
                                 to your needs, including round trips, single trips, convenient transfers to and from Jaffna to Katunayake
                                 Airport, and exciting local tours. With us, every journey is an adventure, every trip a breeze!.</p>
@@ -46,8 +46,7 @@
                                             <path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
                                         </svg></span>
                                     <div class="ms-3">
-                                        <p><span style="font-weight: bold;">Reliability:</span> Count on us for punctuality and consistency,
-                                            ensuring you always arrive at your destination on time, every time</p>
+                                        <p><span style="font-weight: bold;">Choose from a diverse fleet of passenger vehicles, including sedans, SUVs, minibuses, and luxury cars to suit your specific travel needs.</span></p>
                                     </div>
                                 </div>
                                 <div class="d-flex">
@@ -56,9 +55,7 @@
                                             <path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
                                         </svg></span>
                                     <div class="ms-3">
-                                        <p><span style="font-weight: bold;">Safety:</span> Your safety is our utmost priority. Our fleet
-                                            consists of well-maintained vehicles driven by experienced professionals, guaranteeing a secure
-                                            travel experience.</p>
+                                        <p><span style="font-weight: bold;">Our skilled and courteous drivers ensure a safe and comfortable journey for all passengers, providing a hassle-free travel experience.</span></p>
                                     </div>
                                 </div>
                                 <div class="d-flex">
@@ -67,8 +64,7 @@
                                             <path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
                                         </svg></span>
                                     <div class="ms-3">
-                                        <p><span style="font-weight: bold;">Convenience:</span> From round trips to single journeys, or even
-                                            transportation for special occasions, our flexible services are tailored to meet your unique needs.</p>
+                                        <p><span style="font-weight: bold;">Enjoy flexible rental plans, including hourly, daily, weekly, and long-term vehicle hire to fit your travel schedule and budget.</span></p>
                                     </div>
                                 </div>
                                 <div class="d-flex">
@@ -77,8 +73,7 @@
                                             <path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
                                         </svg></span>
                                     <div class="ms-3">
-                                        <p><span style="font-weight: bold;">Comfort:</span> Enjoy a luxurious travel experience in our modern
-                                            and well-equipped vehicles, ensuring a smooth and delightful journey for all passengers.</p>
+                                        <p><span style="font-weight: bold;">Benefit from competitive pricing with no hidden fees, ensuring you get the best value for your money.</span></p>
                                     </div>
                                 </div>
                                 <div class="d-flex">
@@ -87,8 +82,7 @@
                                             <path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
                                         </svg></span>
                                     <div class="ms-3">
-                                        <p><span style="font-weight: bold;">Affordability:</span> Experience top-notch service at competitive
-                                            rates. We offer excellent value for your money without compromising on quality.</p>
+                                        <p><span style="font-weight: bold;">Take advantage of our reliable airport transfer services, offering prompt pickups and drop-offs to and from the airport.</span></p>
                                     </div>
                                 </div>
                                 <div class="d-flex">
@@ -97,8 +91,7 @@
                                             <path fill="#8fbd56" opacity=".2" d="M12,2A10,10,0,1,0,22,12,10.01146,10.01146,0,0,0,12,2Zm5.207,7.61328-6.1875,6.1875a.99963.99963,0,0,1-1.41406,0L6.793,12.98828A.99989.99989,0,0,1,8.207,11.57422l2.10547,2.10547L15.793,8.19922A.99989.99989,0,0,1,17.207,9.61328Z" />
                                         </svg></span>
                                     <div class="ms-3">
-                                        <p><span style="font-weight: bold;">Customer Satisfaction:</span> Our dedicated team is committed to
-                                            exceeding your expectations and ensuring your satisfaction throughout your entire journey.</p>
+                                        <p><span style="font-weight: bold;">Whether you need to transport a small group or a large party, our fleet includes vehicles that can accommodate all your group travel needs comfortably.</span></p>
                                     </div>
                                 </div>
                         </div>

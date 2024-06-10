@@ -12,3 +12,14 @@
 
 <!--- FONT-ICONS CSS -->
 <link href="../assets/css/icons.css" rel="stylesheet" />
+
+<style>
+    .card-section {
+        border: 1px solid #ccc;
+        padding: 20px;
+        margin-top: 20px;
+        border-radius: 5px;
+        display: none;
+        /* Hidden by default */
+    }
+</style>

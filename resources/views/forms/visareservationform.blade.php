@@ -7,38 +7,41 @@
 @section('content')
 
 <div class="row bg-info-gradient">
-    <div class="col-lg-12">
-        <div class="card">
-            <div class="card-body p-4 text-white">
-                <div class="statistics-info">
-                    <div class="card-body p-4 text-center">
-                        <h2>Visa Service Reservation Form</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="col-lg-12">
+		<div class="card">
+			<div class="card-body p-4 text-white">
+				<div class="statistics-info">
+					<div class="card-body p-4 text-center">
+						<h2>Visa Service Reservation Form</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
-<div class="bg-image-landing bg-white section" id="Application">
+<div class="bg-image-landing section">
 	<div class="container px-5 px-md-0">
 		<div class="d-flex justify-content-center align-items-center">
 			<div class="col-lg-12 col-md-12">
 				<div class="card">
 					<div class="card-body">
-						<form class="needs-validation" name="contact-form" novalidate>
+						<form class="needs-validation text-white" name="contact-formVisa" novalidate>
 							<div class="form-row">
-								<div class="col-md-4 mb-3">
+								<div class="col-md-6 mb-3">
 									<label for="firstName">First Name<i style="color: red;"> *</i></label>
 									<input type="text" class="form-control" id="firstName" name="firstName" required>
 									<div class="invalid-feedback">Provide the first name.</div>
 								</div>
-								<div class="col-md-4 mb-3">
+								<div class="col-md-6 mb-3">
 									<label for="lastName">Last Name<i style="color: red;"> *</i></label>
 									<input type="text" class="form-control" id="lastName" name="lastName" required>
 									<div class="invalid-feedback">Provide the last name.</div>
 								</div>
-								<div class="col-md-4 mb-3">
+
+							</div>
+							<div class="form-row">
+								<div class="col-md-6 mb-3">
 									<label for="destination">Gender<i style="color: red;"> *</i></label>
 									<select class="form-control" id="destination" name="destination" required>
 										<option value="" disabled selected>Select...</option>
@@ -47,9 +50,7 @@
 									</select>
 									<div class="invalid-feedback">Provide the Gender.</div>
 								</div>
-							</div>
-							<div class="form-row">
-								<div class="col-md-4 mb-3 form-group">
+								<div class="col-md-6 mb-3 form-group">
 									<label for="nationality">Nationality<i style="color: red;"> *</i></label>
 									<select class="form-control select2-style1" name="nationality" id="nationality" required>
 										<option value="" disabled selected>Select One...</option>
@@ -248,18 +249,21 @@
 									</select>
 									<div class="invalid-feedback">Provide the country.</div>
 								</div>
-								<div class="col-md-4 mb-3">
+
+							</div>
+							<div class="form-row">
+								<div class="col-md-6 mb-3">
 									<label for="email">Email</label>
 									<input type="email" class="form-control" id="email" name="email">
 								</div>
-								<div class="col-md-4 mb-3">
+								<div class="col-md-6 mb-3">
 									<label for="phone">Phone Number<i style="color: red;"> *</i></label>
 									<input type="tel" class="form-control" id="phone" name="phone" required>
 									<div class="invalid-feedback">Provide the phone number.</div>
 								</div>
 							</div>
 							<div class="form-row">
-								<div class="col-md-4 mb-3 form-group">
+								<div class="col-md-6 mb-3 form-group">
 									<label for="expextedCountry">Expected Country<i style="color: red;"> *</i></label>
 									<select class="form-control select2-style1" name="expextedCountry" id="expextedCountry" required>
 										<option value="" disabled selected>Select One...</option>
@@ -458,18 +462,71 @@
 									</select>
 									<div class="invalid-feedback">Provide the Destination.</div>
 								</div>
-								<div class="col-md-4 mb-3">
+								<div class="col-md-6 mb-3">
 									<label for="visaType">Visa Type<i style="color: red;"> *</i></label>
 									<select class="form-control" id="visaType" name="visaType" required>
 										<option value="" disabled selected>Select...</option>
 										<option value="Tourist/Visitor Visa">Tourist/Visitor Visa</option>
 										<option value="Student Visa">Student Visa</option>
+										<option value="Visa Extenson">Visa Extension</option>
 									</select>
 									<div class="invalid-feedback">Provide the Visa Type.</div>
 								</div>
 							</div>
+							<!-- Tourist/Visitor Visa Fields -->
+							<div id="touristFields" class="card-section">
+								<h4>Tourist/Visitor Visa</h4>
+								<div class="row">
+									<div class="col-md-4 mb-3">
+										<label class="ckbox">
+											<input type="checkbox" id="pastVisit" name="pastVisit">
+											<span class="text-13">Have you been to any other country before this?</span>
+										</label>
+									</div>
+									<div class="col-md-4 mb-3">
+										<label for="daysOfStay">How many months are you going to stay there?<i style="color: red;"> *</i></label>
+										<input type="number" class="form-control" id="daysOfStay" name="daysOfStay" required>
+										<div class="invalid-feedback">Provide the Days of Stay.</div>
+									</div>
+									<div class="col-md-4 mb-3">
+										<label for="purposeOfVisit">Purpose of Visit</label>
+										<input type="text" class="form-control" id="purposeOfVisit" name="purposeOfVisit" required>
+									</div>
+								</div>
+							</div>
+							<!-- Student Visa Fields -->
+							<div id="studentFields" class="card-section">
+								<h4>Student Visa</h4>
+								<div class="form-row">
+									<div class="col-md-3 mb-3">
+										<label for="olResults">O/L Qualfication<i style="color: red;"> *</i></label>
+										<input type="text" class="form-control" id="olResults" name="olResults" required>
+										<div class="invalid-feedback">Provide the O/L Qualfication.</div>
+									</div>
+									<div class="col-md-3 mb-3">
+										<label for="alResults">A/L Qualfication<i style="color: red;"> *</i></label>
+										<input type="text" class="form-control" id="alResults" name="alResults" required>
+										<div class="invalid-feedback">Provide the A/L Qualfication.</div>
+									</div>
+									<div class="col-md-3 mb-3">
+										<label for="higerStudies">Higher Studies Qualfication<i style="color: red;"> *</i></label>
+										<input type="text" class="form-control" id="higerStudies" name="higerStudies" required>
+										<div class="invalid-feedback">Provide the Higher Studies Qualfication.</div>
+									</div>
+									<div class="col-md-3 mb-3">
+										<label for="applyType">Applying For<i style="color: red;"> *</i></label>
+										<select class="form-control" id="applyType" name="applyType" required>
+											<option value="" disabled selected>Select...</option>
+											<option value="degree">Degree</option>
+											<option value="master">Master</option>
+											<option value="master">PHD</option>
+										</select>
+										<div class="invalid-feedback">Provide the Apply Type.</div>
+									</div>
+								</div>
+							</div>
 							<div class="form-row">
-								<div class="col-md-8 mb-3">
+								<div class="col-md-12 mb-3">
 									<label for="address">Address</label>
 									<input type="text" class="form-control" id="address" name="address">
 								</div>

@@ -116,17 +116,12 @@
                                                             </div>
                                                             <div class="col-xl-3 col-md-3 col-sm-3">
                                                                 <div class="counter-icon border border-primary text-primary">
-                                                                    <i class="fe fe-whatsapp"></i>
+                                                                    <i class="fa fa-whatsapp"></i>
                                                                 </div>
                                                             </div>
                                                             <div class="col-xl-3 col-md-3 col-sm-3">
                                                                 <div class="counter-icon border border-primary text-primary">
                                                                     <i class="fe fe-instagram"></i>
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-xl-3 col-md-3 col-sm-3">
-                                                                <div class="counter-icon border border-primary text-primary">
-                                                                    <i class="fe fe-twitter"></i>
                                                                 </div>
                                                             </div>
                                                             <div class="col-xl-3 col-md-3 col-sm-3">

@@ -20,25 +20,27 @@
 	</div>
 </div>
 
-<div class="bg-image-landing bg-white section" id="Application">
+<div class="bg-image-landing section">
 	<div class="container px-5 px-md-0">
 		<div class="d-flex justify-content-center align-items-center">
 			<div class="col-lg-12 col-md-12">
 				<div class="card">
 					<div class="card-body">
-						<form class="needs-validation" name="contact-form" novalidate>
+						<form class="needs-validation  text-white" name="contact-formAirline" novalidate>
 							<div class="form-row">
-								<div class="col-md-4 mb-3">
+								<div class="col-md-6 mb-3">
 									<label for="firstName">First Name<i style="color: red;"> *</i></label>
 									<input type="text" class="form-control" id="firstName" name="firstName" required>
 									<div class="invalid-feedback">Provide the first name.</div>
 								</div>
-								<div class="col-md-4 mb-3">
+								<div class="col-md-6 mb-3">
 									<label for="lastName">Last Name<i style="color: red;"> *</i></label>
 									<input type="text" class="form-control" id="lastName" name="lastName" required>
 									<div class="invalid-feedback">Provide the last name.</div>
 								</div>
-								<div class="col-md-4 mb-3">
+							</div>
+							<div class="form-row">
+								<div class="col-md-6 mb-3">
 									<label for="destination">Gender<i style="color: red;"> *</i></label>
 									<select class="form-control" id="destination" name="destination" required>
 										<option value="" disabled selected>Select...</option>
@@ -47,9 +49,7 @@
 									</select>
 									<div class="invalid-feedback">Provide the Gender.</div>
 								</div>
-							</div>
-							<div class="form-row">
-								<div class="col-md-4 mb-3 form-group">
+								<div class="col-md-6 mb-3 form-group">
 									<label for="nationality">Nationality<i style="color: red;"> *</i></label>
 									<select class="form-control select2-style1" name="nationality" id="nationality" required>
 										<option value="" disabled selected>Select One...</option>
@@ -248,20 +248,22 @@
 									</select>
 									<div class="invalid-feedback">Provide the country.</div>
 								</div>
-								<div class="col-md-4 mb-3">
+							</div>
+							<div class="form-row">
+								<div class="col-md-6 mb-3">
 									<label for="email">Email</label>
 									<input type="email" class="form-control" id="email" name="email">
 								</div>
-								<div class="col-md-4 mb-3">
+								<div class="col-md-6 mb-3">
 									<label for="phone">Phone Number<i style="color: red;"> *</i></label>
 									<input type="tel" class="form-control" id="phone" name="phone" required>
 									<div class="invalid-feedback">Provide the phone number.</div>
 								</div>
 							</div>
 							<div class="form-row">
-								<div class="col-md-4 mb-3 form-group">
-									<label for="destination">Destination<i style="color: red;"> *</i></label>
-									<select class="form-control select2-style1" name="destination" id="destination" required>
+								<div class="col-md-6 mb-3 form-group">
+									<label for="whereFrom">Where From<i style="color: red;"> *</i></label>
+									<select class="form-control select2-style1" name="whereFrom" id="whereFrom" required>
 										<option value="" disabled selected>Select One...</option>
 										<option value="afghan">Afghan</option>
 										<option value="albanian">Albanian</option>
@@ -458,9 +460,9 @@
 									</select>
 									<div class="invalid-feedback">Provide the Destination.</div>
 								</div>
-								<div class="col-md-4 mb-3 form-group">
-									<label for="depature">Depature<i style="color: red;"> *</i></label>
-									<select class="form-control select2-style1" name="depature" id="depature" required>
+								<div class="col-md-6 mb-3 form-group">
+									<label for="whereTo">Where To<i style="color: red;"> *</i></label>
+									<select class="form-control select2-style1" name="whereTo" id="whereTo" required>
 										<option value="" disabled selected>Select One...</option>
 										<option value="afghan">Afghan</option>
 										<option value="albanian">Albanian</option>
@@ -657,6 +659,8 @@
 									</select>
 									<div class="invalid-feedback">Provide the Depature.</div>
 								</div>
+							</div>
+							<div class="form-row">
 								<div class="col-md-4 mb-3">
 									<label for="type">Type<i style="color: red;"> *</i></label>
 									<select class="form-control" id="type" name="type" required>
@@ -666,8 +670,6 @@
 									</select>
 									<div class="invalid-feedback">Provide the Type.</div>
 								</div>
-							</div>
-							<div class="form-row">
 								<div class="col-md-4 mb-3">
 									<label for="travellers">Travellers<i style="color: red;"> *</i></label>
 									<select class="form-control" id="travellers" name="travellers" required>
@@ -683,11 +685,10 @@
 									</select>
 									<div class="invalid-feedback">Provide the Travellers Count.</div>
 								</div>
-								<div class="col-md-8 mb-3">
+								<div class="col-md-4 mb-3">
 									<label for="address">Address</label>
 									<input type="text" class="form-control" id="address" name="address">
 								</div>
-
 							</div>
 							<div class="form-row">
 								<label class="ckbox">
