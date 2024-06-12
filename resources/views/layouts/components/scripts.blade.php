@@ -47,6 +47,18 @@
         const visaTypeSelect = document.getElementById('visaType');
         const touristFields = document.getElementById('touristFields');
         const studentFields = document.getElementById('studentFields');
+        const touristFieldsInputs = touristFields.querySelectorAll('input, select');
+        const studentFieldsInputs = studentFields.querySelectorAll('input, select');
+
+        function updateValidation(inputs, required) {
+            inputs.forEach(input => {
+                if (required) {
+                    input.setAttribute('required', 'required');
+                } else {
+                    input.removeAttribute('required');
+                }
+            });
+        }
 
         visaTypeSelect.addEventListener('change', function() {
             const selectedVisa = this.value;
@@ -54,40 +66,63 @@
             if (selectedVisa === 'Tourist/Visitor Visa') {
                 touristFields.style.display = 'block';
                 studentFields.style.display = 'none';
+                updateValidation(touristFieldsInputs, true);
+                updateValidation(studentFieldsInputs, false);
             } else if (selectedVisa === 'Student Visa') {
                 touristFields.style.display = 'none';
                 studentFields.style.display = 'block';
+                updateValidation(touristFieldsInputs, false);
+                updateValidation(studentFieldsInputs, true);
             } else {
                 touristFields.style.display = 'none';
                 studentFields.style.display = 'none';
+                updateValidation(touristFieldsInputs, false);
+                updateValidation(studentFieldsInputs, false);
             }
         });
     });
 </script>
 
 <script>
-    const scriptURLAirline = 'https://script.google.com/macros/s/AKfycbyc2cTc5WEl7M2c7v2q2FjDY0pouymeqn2fW7GcmoUcptrV8V6r0fAxIhGk_QY7-Es/exec';
-    const formAirline = document.forms['contact-formAirline'];
+    var scriptURL = "{{ config('custom.appscript_airline_ticket_excel') }}";
+    const form = document.forms['contact-formApplication'];
 
     form.addEventListener('submit', e => {
         e.preventDefault();
 
         if (form.checkValidity()) {
-            fetch(scriptURLAirline, {
+            // Show loading spinner
+            swal({
+                title: "Application is under review",
+                text: "Please wait.",
+                onBeforeOpen: () => {
+                    Swal.showLoading();
+                },
+                showConfirmButton: false,
+                closeOnClickOutside: false
+            });
+
+            fetch(scriptURL, {
                     method: 'POST',
-                    body: new FormData(formAirline)
+                    body: new FormData(form)
                 })
                 .then(response => {
-                    // SweetAlert for success message
+                    // Show success message
                     swal("Thanks!", "Your form has been successfully submitted.", "success");
                 })
                 .then(() => {
-                    // Reload the current page
-                    window.location.reload();
+                    // Reload the current page after a delay
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 2000); // Adjust the delay time if necessary
                 })
-                .catch(error => console.error('Error!', error.message));
+                .catch(error => {
+                    console.error('Error!', error.message);
+                    // Show error message
+                    swal("wrong", "Some information is missing.", "error");
+                });
         } else {
-            //  SweetAlert for error message
+            // Show error message for invalid form
             swal("wrong", "Some information is missing.", "error");
         }
     });
@@ -99,28 +134,95 @@
 </script>
 
 <script>
-    const scriptURLVisa = 'https://script.google.com/macros/s/AKfycbyc2cTc5WEl7M2c7v2q2FjDY0pouymeqn2fW7GcmoUcptrV8V6r0fAxIhGk_QY7-Es/exec';
+    var scriptURLVisa = "{{ config('custom.appscript_visa_excel') }}";
     const formVisa = document.forms['contact-formVisa'];
 
-    form.addEventListener('submit', e => {
+    formVisa.addEventListener('submit', e => {
         e.preventDefault();
 
-        if (form.checkValidity()) {
+        if (formVisa.checkValidity()) {
+            // Show loading spinner
+            swal({
+                title: "Application is under review",
+                text: "Please wait.",
+                onBeforeOpen: () => {
+                    Swal.showLoading();
+                },
+                showConfirmButton: false,
+                closeOnClickOutside: false
+            });
+
             fetch(scriptURLVisa, {
                     method: 'POST',
                     body: new FormData(formVisa)
                 })
                 .then(response => {
-                    // SweetAlert for success message
+                    // Show success message
                     swal("Thanks!", "Your form has been successfully submitted.", "success");
                 })
                 .then(() => {
-                    // Reload the current page
-                    window.location.reload();
+                    // Reload the current page after a delay
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 2000); // Adjust the delay time if necessary
                 })
-                .catch(error => console.error('Error!', error.message));
+                .catch(error => {
+                    console.error('Error!', error.message);
+                    // Show error message
+                    swal("wrong", "Some information is missing.", "error");
+                });
         } else {
-            //  SweetAlert for error message
+            // Show error message for invalid form
+            swal("wrong", "Some information is missing.", "error");
+        }
+    });
+
+    // Optional: trigger the success alert manually using this button
+    document.getElementById('swal-success').addEventListener('click', () => {
+        swal("Success", "This is a success alert triggered manually.", "success");
+    });
+</script>
+
+<script>
+    var scriptURLContact = "{{ config('custom.appscript_contact_excel') }}";
+    const formContact = document.forms['contact-formContact'];
+
+    formContact.addEventListener('submit', e => {
+        e.preventDefault();
+
+        if (formContact.checkValidity()) {
+            // Show loading spinner
+            swal({
+                title: "Application is under review",
+                text: "Please wait.",
+                onBeforeOpen: () => {
+                    Swal.showLoading();
+                },
+                showConfirmButton: false,
+                closeOnClickOutside: false
+            });
+
+            fetch(scriptURLContact, {
+                    method: 'POST',
+                    body: new FormData(formContact)
+                })
+                .then(response => {
+                    // Show success message
+                    swal("Thanks!", "Your form has been successfully submitted.", "success");
+                })
+                .then(() => {
+                    // Reload the current page after a delay
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 2000); // Adjust the delay time if necessary
+                })
+                .catch(error => {
+                    console.error('Error!', error.message);
+                    // Show error message
+                    swal("wrong", "Some information is missing.", "error");
+                });
+        } else {
+            // Show error message for invalid form
             swal("wrong", "Some information is missing.", "error");
         }
     });

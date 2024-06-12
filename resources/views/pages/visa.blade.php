@@ -109,12 +109,12 @@
                                     </ol>
                                     <div class="carousel-inner" style="width: 600px; height: 400px; object-fit: cover;">
                                         <div class="carousel-item active">
-                                            <img class="d-block w-100" alt="" src="../assets/images/media/1.jpg" data-bs-holder-rendered="true">
+                                            <img class="d-block w-100" alt="" src="../assets/images/media/visa.png" data-bs-holder-rendered="true">
                                         </div>
-                                        <div class="carousel-item">
-                                            <img class="d-block w-100" alt="" src="../assets/images/media/2.png" data-bs-holder-rendered="true">
-                                        </div>
-                                        <div class="carousel-item">
+                                        <!-- <div class="carousel-item">
+                                            <img class="d-block w-100" alt="" src="../assets/images/media/visa2.jpg" data-bs-holder-rendered="true">
+                                        </div> -->
+                                        <!-- <div class="carousel-item">
                                             <img class="d-block w-100" alt="" src="../assets/images/media/3.png" data-bs-holder-rendered="true">
                                         </div>
                                         <div class="carousel-item">
@@ -122,7 +122,7 @@
                                         </div>
                                         <div class="carousel-item">
                                             <img class="d-block w-100" alt="" src="../assets/images/media/5.jpg" data-bs-holder-rendered="true">
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -130,7 +130,7 @@
                                 <div class="col-xl-4 col-md-12">
                                     <div class="card overflow-hidden box-shadow mb-0 main-blog">
                                         <a href="" class="background-image-blog img4 mb-0">
-                                            <img src="./assets/images/events/feasthall/nallur1.jfif" class="background-image-blog img3 mb-0" alt="...">
+                                            <img src="./assets/images/banners/tourist-visitor-visa.jfif" class="background-image-blog img3 mb-0" alt="...">
                                             <span class="badge rounded-pill bg-info-gradient blog-label label2">Tourist VISA / Visitor VISA</span>
 
                                         </a>
@@ -171,7 +171,7 @@
                                 <div class="col-xl-4 col-md-12">
                                     <div class="card overflow-hidden box-shadow mb-0 main-blog">
                                         <a href="" class="background-image-blog img4 mb-0">
-                                            <img src="./assets/images/events/feasthall/nallur1.jfif" class="background-image-blog img3 mb-0" alt="...">
+                                            <img src="./assets/images/banners/student-visa.jpg" class="background-image-blog img3 mb-0" alt="...">
                                             <span class="badge rounded-pill bg-info-gradient blog-label label2">Student Visa</span>
                                         </a>
                                         <div class="card-body p-0 border border-top-0 br-br-5 br-bl-5">
@@ -220,7 +220,7 @@
                                 <div class="col-xl-4 col-md-12">
                                     <div class="card overflow-hidden box-shadow mb-0 main-blog">
                                         <a href="" class="background-image-blog img4 mb-0">
-                                            <img src="./assets/images/events/feasthall/nallur1.jfif" class="background-image-blog img3 mb-0" alt="...">
+                                            <img src="./assets/images/banners/visa-extension.jfif" class="background-image-blog img3 mb-0" alt="...">
                                             <span class="badge rounded-pill bg-info-gradient blog-label label2">Visa Extension</span>
                                         </a>
                                         <div class="card-body p-0 border border-top-0 br-br-5 br-bl-5">

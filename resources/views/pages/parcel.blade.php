@@ -125,9 +125,9 @@
                                 </ol>
                                 <div class="carousel-inner" style="width: 600px; height: 400px; object-fit: cover;">
                                     <div class="carousel-item active">
-                                        <img class="d-block w-100" alt="" src="../assets/images/media/1.jpg" data-bs-holder-rendered="true">
+                                        <img class="d-block w-100" alt="" src="../assets/images/media/parcel.png" data-bs-holder-rendered="true">
                                     </div>
-                                    <div class="carousel-item">
+                                    <!-- <div class="carousel-item">
                                         <img class="d-block w-100" alt="" src="../assets/images/media/2.png" data-bs-holder-rendered="true">
                                     </div>
                                     <div class="carousel-item">
@@ -138,7 +138,7 @@
                                     </div>
                                     <div class="carousel-item">
                                         <img class="d-block w-100" alt="" src="../assets/images/media/5.jpg" data-bs-holder-rendered="true">
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -151,15 +151,17 @@
                         </div>
                         <div class="row">
                             <div class="row justify-content-center">
-                                <div class="row">
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/couriers/domex.png" alt="Domex" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/couriers/prompt-xp.png" alt="Prompt XP" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/couriers/pronto.png" alt="Pronto" class="img-fluid" style="width:150px; height: 100%;">
+                                <div class="col-lg-12">
+                                    <div class="customer-logos">
+                                        <div class="slide text-center"><img src="../assets/images/partners/couriers/domex.jpg" alt="">
+                                            <h4 class="sub-text text-white">Domex</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/couriers/prompt-xp.jpg" alt="">
+                                            <h4 class="sub-text text-white">Prompt XP</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/couriers/pronto.jpg" alt="">
+                                            <h4 class="sub-text text-white">Pronto</h4>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

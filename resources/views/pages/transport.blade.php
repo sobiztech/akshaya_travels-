@@ -106,9 +106,9 @@
                                 </ol>
                                 <div class="carousel-inner" style="width: 600px; height: 400px; object-fit: cover;">
                                     <div class="carousel-item active">
-                                        <img class="d-block w-100" alt="" src="../assets/images/media/1.jpg" data-bs-holder-rendered="true">
+                                        <img class="d-block w-100" alt="" src="../assets/images/media/vechile hire.png" data-bs-holder-rendered="true">
                                     </div>
-                                    <div class="carousel-item">
+                                    <!-- <div class="carousel-item">
                                         <img class="d-block w-100" alt="" src="../assets/images/media/2.png" data-bs-holder-rendered="true">
                                     </div>
                                     <div class="carousel-item">
@@ -119,7 +119,7 @@
                                     </div>
                                     <div class="carousel-item">
                                         <img class="d-block w-100" alt="" src="../assets/images/media/5.jpg" data-bs-holder-rendered="true">
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

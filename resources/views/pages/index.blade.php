@@ -22,19 +22,19 @@
 						</ol>
 						<div class="carousel-inner" style="width: 600px; height: 400px; object-fit: cover;">
 							<div class="carousel-item active">
-								<img class="d-block w-100" alt="" src="../assets/images/media/1.jpg" data-bs-holder-rendered="true">
+								<img class="d-block w-100" alt="" src="../assets/images/media/airlineticket.png" data-bs-holder-rendered="true">
 							</div>
 							<div class="carousel-item">
-								<img class="d-block w-100" alt="" src="../assets/images/media/2.png" data-bs-holder-rendered="true">
+								<img class="d-block w-100" alt="" src="../assets/images/media/visa.png" data-bs-holder-rendered="true">
 							</div>
 							<div class="carousel-item">
-								<img class="d-block w-100" alt="" src="../assets/images/media/3.png" data-bs-holder-rendered="true">
+								<img class="d-block w-100" alt="" src="../assets/images/media/travel2.png" data-bs-holder-rendered="true">
 							</div>
 							<div class="carousel-item">
-								<img class="d-block w-100" alt="" src="../assets/images/media/4.jpg" data-bs-holder-rendered="true">
+								<img class="d-block w-100" alt="" src="../assets/images/media/parcel.png" data-bs-holder-rendered="true">
 							</div>
 							<div class="carousel-item">
-								<img class="d-block w-100" alt="" src="../assets/images/media/5.jpg" data-bs-holder-rendered="true">
+								<img class="d-block w-100" alt="" src="../assets/images/media/travel.png" data-bs-holder-rendered="true">
 							</div>
 						</div>
 					</div>
@@ -423,31 +423,31 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
 				<div class="customer-logos">
-					<div class="slide text-center"><img src="../assets/images/partners/airlines/air-india.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/airlines/air-india.jpg" alt="">
 						<h4 class="sub-text text-white">Air India</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/airlines/air-new-zealand.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/airlines/air-new-zealand.jpg" alt="">
 						<h4 class="sub-text text-white">Air New Zealand</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/airlines/american-airlines.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/airlines/american-airlines.jpg" alt="">
 						<h4 class="sub-text text-white">American Airlines</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/airlines/british-airways.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/airlines/british-airways.jpg" alt="">
 						<h4 class="sub-text text-white">British Airways</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/airlines/emirates.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/airlines/emirates.jpg" alt="">
 						<h4 class="sub-text text-white">Emirates</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/airlines/indigo.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/airlines/indigo.jpg" alt="">
 						<h4 class="sub-text text-white">Indigo</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/airlines/qatar-airways.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/airlines/qatar-airways.jpg" alt="">
 						<h4 class="sub-text text-white">Qatar Airways</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/airlines/singapore-airlines.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/airlines/singapore-airlines.jpg" alt="">
 						<h4 class="sub-text text-white">Singapore Airlines</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/airlines/srilankan-airlines.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/airlines/srilankan-airlines.jpg" alt="">
 						<h4 class="sub-text text-white">Srilankan Airlines</h4>
 					</div>
 				</div>
@@ -456,13 +456,13 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
 				<div class="customer-logos">
-					<div class="slide text-center"><img src="../assets/images/partners/couriers/domex.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/couriers/domex.jpg" alt="">
 						<h4 class="sub-text text-white">Domex</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/couriers/prompt-xp.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/couriers/prompt-xp.jpg" alt="">
 						<h4 class="sub-text text-white">Prompt XP</h4>
 					</div>
-					<div class="slide text-center"><img src="../assets/images/partners/couriers/pronto.png" alt="">
+					<div class="slide text-center"><img src="../assets/images/partners/couriers/pronto.jpg" alt="">
 						<h4 class="sub-text text-white">Pronto</h4>
 					</div>
 				</div>

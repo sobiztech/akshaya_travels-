@@ -117,9 +117,9 @@
                                 </ol>
                                 <div class="carousel-inner" style="width: 600px; height: 400px; object-fit: cover;">
                                     <div class="carousel-item active">
-                                        <img class="d-block w-100" alt="" src="../assets/images/media/1.jpg" data-bs-holder-rendered="true">
+                                        <img class="d-block w-100" alt="" src="../assets/images/media/airlineticket.png" data-bs-holder-rendered="true">
                                     </div>
-                                    <div class="carousel-item">
+                                    <!-- <div class="carousel-item">
                                         <img class="d-block w-100" alt="" src="../assets/images/media/2.png" data-bs-holder-rendered="true">
                                     </div>
                                     <div class="carousel-item">
@@ -130,7 +130,7 @@
                                     </div>
                                     <div class="carousel-item">
                                         <img class="d-block w-100" alt="" src="../assets/images/media/5.jpg" data-bs-holder-rendered="true">
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -143,36 +143,39 @@
                         </div>
                         <div class="row">
                             <div class="row justify-content-center">
-                                <div class="row">
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/airlines/air-india.png" alt="Air India" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/airlines/air-new-zealand.png" alt="Air New Zealand" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/airlines/american-airlines.png" alt="American Airlines" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/airlines/british-airways.png" alt="British Airways" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/airlines/emirates.png" alt="Emirates" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/airlines/indigo.png" alt="Indigo" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/airlines/qatar-airways.png" alt="Qatar Airways" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/airlines/singapore-airlines.png" alt="Singapore Airlines" class="img-fluid" style="width:150px; height: 100%;">
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 text-center">
-                                        <img src="../assets/images/partners/airlines/srilankan-airlines.png" alt="Srilankan Airlines" class="img-fluid" style="width:150px; height: 100%;">
+                                <div class="col-lg-12">
+                                    <div class="customer-logos">
+                                        <div class="slide text-center"><img src="../assets/images/partners/airlines/air-india.jpg" alt="">
+                                            <h4 class="sub-text text-white">Air India</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/airlines/air-new-zealand.jpg" alt="">
+                                            <h4 class="sub-text text-white">Air New Zealand</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/airlines/american-airlines.jpg" alt="">
+                                            <h4 class="sub-text text-white">American Airlines</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/airlines/british-airways.jpg" alt="">
+                                            <h4 class="sub-text text-white">British Airways</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/airlines/emirates.jpg" alt="">
+                                            <h4 class="sub-text text-white">Emirates</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/airlines/indigo.jpg" alt="">
+                                            <h4 class="sub-text text-white">Indigo</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/airlines/qatar-airways.jpg" alt="">
+                                            <h4 class="sub-text text-white">Qatar Airways</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/airlines/singapore-airlines.jpg" alt="">
+                                            <h4 class="sub-text text-white">Singapore Airlines</h4>
+                                        </div>
+                                        <div class="slide text-center"><img src="../assets/images/partners/airlines/srilankan-airlines.jpg" alt="">
+                                            <h4 class="sub-text text-white">Srilankan Airlines</h4>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>

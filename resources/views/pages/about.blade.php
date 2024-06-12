@@ -19,7 +19,7 @@
         </div>
     </div>
 </div>
-
+Book your flight with us today and soar to new destinations with unbeatable deals and seamless travel experiences!
 <!-- About Us -->
 <div class="container px-5 px-md-0">
     <div class="row">
@@ -34,7 +34,7 @@
                                 </div>
                             </div>
                             <div class="ps-relative p-1 bg-light br-5">
-                                <img src="../assets/images/banners/akshaya-pvt-ltd.jpg" alt="img" class="cover-image br-5 ms-auto me-auto" style="height:300px; width:800px;">
+                                <img src="../assets/images/banners/akshaya-pvt-ltd.png" alt="img" class="cover-image br-5 ms-auto me-auto" style="height:300px; width:800px;">
                                 <span class="badge bg-primary-gradient blog-label label5">Akshaya (Pvt) Ltd</span>
                             </div>
                             <div class=" mb-2 mt-5 content text-justify">
@@ -56,78 +56,38 @@
                                     clients can rely on Akshaya Travels for expert guidance, personalized service, and unparalleled support.</p>
                             </div>
                             <!-- Team -->
-								<div class="container px-5 px-md-0 mb-2">
-									<div class="row text-center justify-content-center">
-										<div class="col-lg-8 ps-3">
-											<h3 class="header-family">Team</h3>
-											<p class="text-default text-white sub-text mb-5">The key to this success is the hardwork and the dedication
-												that our team put into work.</p>
-										</div>
-									</div>
-									<div class="row text-center team">
-										<div class="col-lg-3 col-sm-6 mb-5">
-											<div class="bg-transparent shadow-sm p-5 team-card"><img
-													src="../assets/images/faces/kajan.jfif" alt=""
-													class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-												<h5 class="mb-1">Kadamban Maheswaran</h5><span class="text-muted text-white">Founder & CEO</span>
-												<ul class="social mb-0 list-inline mt-4">
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-facebook"></i></a>
-													</li>
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-instagram"></i></a>
-													</li>
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-linkedin"></i></a>
-													</li>
-												</ul>
-											</div>
-										</div>
-										<div class="col-lg-3 col-sm-6 mb-5">
-											<div class="bg-transparent shadow-sm p-5 team-card"><img
-													src="../assets/images/faces/lambo.jfif" alt="" width="100"
-													class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-												<h5 class="mb-1">Harini Maheswaran</h5><span class="text-muted text-white">Secereatry</span>
-												<ul class="social mb-0 list-inline mt-4">
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-facebook"></i></a>
-													</li>
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-instagram"></i></a>
-													</li>
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-linkedin"></i></a>
-													</li>
-												</ul>
-											</div>
-										</div>
-										<div class="col-lg-3 col-sm-6 mb-5">
-											<div class="bg-transparent shadow-sm p-5 team-card"><img
-													src="../assets/images/faces/kajan.jfif" alt="" width="100"
-													class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-												<h5 class="mb-1">Lambotharan Kunasekaram</h5><span class="text-muted text-white">Marcketing Excecute</span>
-												<ul class="social mb-0 list-inline mt-4">
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-facebook"></i></a>
-													</li>
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-instagram"></i></a>
-													</li>
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-linkedin"></i></a>
-													</li>
-												</ul>
-											</div>
-										</div>
-										<div class="col-lg-3 col-sm-6 mb-5">
-											<div class="bg-transparent shadow-sm p-5 team-card"><img
-													src="../assets/images/faces/teacher.jfif" alt="" width="100"
-													class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-												<h5 class="mb-1">Sivanujan Maheswaran</h5><span class="text-muted text-white">Public Relation Excecute</span>
-												<ul class="social mb-0 list-inline mt-4">
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-facebook"></i></a>
-													</li>
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-instagram"></i></a>
-													</li>
-													<li class="list-inline-item"><a href="#" class="social"><i class="fe fe-linkedin"></i></a>
-													</li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
-							<!-- </div> -->
+                            <div class="container px-5 px-md-0 mb-2">
+                                <div class="row text-center justify-content-center">
+                                    <div class="col-lg-8 ps-3">
+                                        <h3 class="header-family">Team</h3>
+                                        <p class="text-default text-white sub-text mb-5">The key to this success is the hardwork and the dedication
+                                            that our team put into work.</p>
+                                    </div>
+                                </div>
+                                <div class="row text-center team">
+                                    <div class="col-lg-3 col-sm-6 mb-5">
+                                        <div class="bg-transparent shadow-sm p-5 team-card"><img src="../assets/images/faces/kadampan-maheswaran.jpeg" alt="" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                                            <h5 class="mb-1">Kadampan Maheswaran</h5><span class="text-muted text-white">Founder & CEO</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-sm-6 mb-5">
+                                        <div class="bg-transparent shadow-sm p-5 team-card"><img src="../assets/images/faces/thuvaraka-maheswaran.jpeg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                                            <h5 class="mb-1">Thuvaraka Maheswaran</h5><span class="text-muted text-white">Secereatry</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-sm-6 mb-5">
+                                        <div class="bg-transparent shadow-sm p-5 team-card"><img src="../assets/images/faces/elamphotharan-gnanapiragasam.jpeg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                                            <h5 class="mb-1" style="font-size: 14px;">Elamphotharan Gnanapiragasam</h5><span class="text-muted text-white">Marketing Excecute</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-sm-6 mb-5">
+                                        <div class="bg-transparent shadow-sm p-5 team-card"><img src="../assets/images/faces/sivanujan-mahes.jpeg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                                            <h5 class="mb-1">Sivanujan Mahes</h5><span class="text-muted text-white">IT Support</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- </div> -->
                         </div>
                         <div class="col-xl-4">
                             <div class="card overflow-hidden border br-5">
@@ -136,7 +96,7 @@
                                 </div>
                                 <div class="card-body">
                                     <div class="text-center">
-                                        <img class="card-img-top w-100 w-100" src="../assets/images/faces/kadmpan.jpg" alt="">
+                                        <img class="card-img-top w-100 w-100" src="../assets/images/faces/kadampan-maheswaran.jpeg" alt="">
                                         <div class="br-5 pt-3 text-justify">
                                             <p class="m-0 text-muted text-white">
                                                 Kadamban Maheswaran is a distinguished entrepreneur and the visionary founder of Akshaya Travels Pvt Ltd,
