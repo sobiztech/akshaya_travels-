@@ -19,7 +19,7 @@
         </div>
     </div>
 </div>
-Book your flight with us today and soar to new destinations with unbeatable deals and seamless travel experiences!
+
 <!-- About Us -->
 <div class="container px-5 px-md-0">
     <div class="row">
