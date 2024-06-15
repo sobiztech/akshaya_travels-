@@ -63,7 +63,7 @@
                             <h6 class="text-uppercase mb-2 font-weight-semibold">Contact</h6>
                             <p><i class="fa fa-home me-3 mb-2"></i>Vattukottai, Jaffna, Srilanka</p>
                             <p><i class="fa fa-envelope me-3 mb-2"></i>akshayatravelagent@gmail.com</p>
-                            <p><i class="fa fa-phone me-3 mb-2"></i>021-7901611</p>
+                            <p><i class="fa fa-phone me-3 mb-2"></i>+94 706326729 <br> +94 021-79016111</p>
                             <p><i class="fa fa-whatsapp me-3 mb-2"></i>+94 706326729</p>
                         </div>
                     </div>

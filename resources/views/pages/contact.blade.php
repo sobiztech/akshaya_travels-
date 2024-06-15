@@ -61,8 +61,7 @@
                                                         </div>
                                                         <div class="col-xl-6 col-md-9 px-0 mb-1 col-sm-9">
                                                             <h5 class="mb-1 fw-semibold">Phone Number</h5>
-                                                            <p class="mb-0 fs-13 text-white">021-7901611
-                                                            </p>
+                                                            <p class="mb-0 fs-13 text-white"> +94 706326729 <br> +94 750326729 <br> +94 021-7901611</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -179,7 +178,7 @@
                             </div>
                             <div class="col-xl-6 col-md-12 col-sm-12">
                                 <div class="">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15729.238065742084!2d79.9356223698399!3d9.7398277807206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afe52e98d542dcb%3A0x8bad045e1da0295f!2sJaffna%20College!5e0!3m2!1sen!2slk!4v1717053484301!5m2!1sen!2slk" width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15729.238065742084!2d79.9356223698399!3d9.7398277807206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afe52e98d542dcb%3A0x8bad045e1da0295f!2sJaffna%20College!5e0!3m2!1sen!2slk!4v1717053484301!5m2!1sen!2slk" width="600" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 </div>
                             </div>
                         </div>

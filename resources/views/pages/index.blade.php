@@ -65,8 +65,8 @@
 								<div class="counter-icon bg-primary-gradient box-shadow-primary">
 									<i class="icon icon-people text-white"></i>
 								</div>
-								<h5 class="mb-2">Total Airline Ticket Booking</h5>
-								<h2 class="counter mb-0">2569</h2>
+								<h5 class="mb-2">Airline Ticket</h5>
+								<h2 class="counter mb-0">514+</h2>
 							</div>
 						</div>
 						<div class="col-lg-3 col-sm-6 mt-4 mb-4">
@@ -74,17 +74,8 @@
 								<div class="counter-icon bg-secondary-gradient box-shadow-secondary">
 									<i class="icon icon-rocket text-white"></i>
 								</div>
-								<h5 class="mb-2">Total Visa Approovals</h5>
-								<h2 class="counter  mb-0">1765</h2>
-							</div>
-						</div>
-						<div class="col-lg-3 col-sm-6  mt-4 mb-4">
-							<div class="counter-statuss">
-								<div class="counter-icon bg-success-gradient box-shadow-success">
-									<i class="icon icon-docs text-white"></i>
-								</div>
-								<h5 class="mb-2">Total Delivry</h5>
-								<h2 class="counter mb-0">846</h2>
+								<h5 class="mb-2">Tourist Visa</h5>
+								<h2 class="counter  mb-0">293+</h2>
 							</div>
 						</div>
 						<div class="col-lg-3 col-sm-6 mt-4 mb-4">
@@ -92,8 +83,17 @@
 								<div class="counter-icon bg-danger-gradient box-shadow-danger">
 									<i class="fe fe-trending-up text-white"></i>
 								</div>
-								<h5 class="mb-2">Total Student Visa</h5>
-								<h2 class="counter  mb-0">7253</h2>
+								<h5 class="mb-2">Student Visa</h5>
+								<h2 class="counter  mb-0">21+</h2>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6  mt-4 mb-4">
+							<div class="counter-statuss">
+								<div class="counter-icon bg-success-gradient box-shadow-success">
+									<i class="icon icon-docs text-white"></i>
+								</div>
+								<h5 class="mb-2">Delivery</h5>
+								<h2 class="counter mb-0">34+</h2>
 							</div>
 						</div>
 					</div>
