@@ -9,7 +9,7 @@
 				<div class="main-sidemenu navbar px-0">
 					<a class="navbar-brand ps-0 d-none d-lg-block" href="/">
 						<div>
-							<img alt="Logo" class="logo-2" src="../assets/images/brand/logo-3.png" style="width: 52px; height: 36px; vertical-align: middle;">
+							<img alt="Logo" class="logo-2" src="../assets/images/brand/logo-3.png" style="width: 40px; height: 40px; vertical-align: middle;">
 							<h4 class="text-white" style="display: inline; vertical-align: middle; color: white; margin-left: 10px;">Akshaya Travels</h4>
 						</div>
 						<img alt="" class="dark-landinglogo" src="../assets/images/brand/logo.png">
