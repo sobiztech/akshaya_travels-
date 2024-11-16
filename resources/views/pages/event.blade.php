@@ -35,28 +35,28 @@
 						data-responsive="../assets/images/events/feasthall/nallur1.jpeg" 
 						data-src="../assets/images/events/feasthall/nallur1.jpeg" data-sub-html="<h4>Gallery Image 1</h4><p> Nursery Pictures</p>">
 							<a href="javascript:void(0)">
-								<img class="img-responsive br-5 wp-100" src="../assets/images/events/feasthall/nallur1.jpeg" alt="Thumb-1">
+								<img class="img-responsive br-5 wp-100 gallery-image" src="../assets/images/events/feasthall/nallur1.jpeg" alt="Thumb-1">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-4 col-md-4 col-xl-4 mb-5 border-bottom-0" 
 						data-responsive="../assets/images/events/feasthall/nallur2.jpg" 
 						data-src="../assets/images/events/feasthall/nallur2.jpg" data-sub-html=" <h4>Gallery Image 2</h4><p> Nursery Pictures</p>">
 							<a href="javascript:void(0)">
-								<img class="img-responsive br-5 wp-100" src="../assets/images/events/feasthall/nallur2.jpg" alt="Thumb-2">
+								<img class="img-responsive br-5 wp-100 gallery-image" src="../assets/images/events/feasthall/nallur2.jpg" alt="Thumb-2">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-4 col-md-4 col-xl-4 mb-5 border-bottom-0" 
 						data-responsive="../assets/images/events/feasthall/3.jpg" 
 						data-src="../assets/images/events/feasthall/nallur3.jpg" data-sub-html="<h4>Gallery Image 3</h4><p> Nursery Pictures</p>">
 							<a href="javascript:void(0)">
-								<img class="img-responsive br-5 wp-100" src="../assets/images/events/feasthall/nallur3.jpg" alt="Thumb-1">
+								<img class="img-responsive br-5 wp-100 gallery-image" src="../assets/images/events/feasthall/nallur3.jpg" alt="Thumb-1">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-4 col-md-4 col-xl-4 mb-5 border-bottom-0" 
 						data-responsive="../assets/images/events/feasthall/nallur4.jfif" 
 						data-src="../assets/images/events/feasthall/nallur4.jfif" data-sub-html="<h4>Gallery Image 4</h4><p> Nursery Pictures</p>">
 							<a href="javascript:void(0)">
-								<img class="img-responsive br-5 wp-100" src="../assets/images/events/feasthall/nallur4.jfif" alt="Thumb-2">
+								<img class="img-responsive br-5 wp-100 gallery-image" src="../assets/images/events/feasthall/nallur4.jfif" alt="Thumb-2">
 							</a>
 						</li>
 					</ul>
@@ -66,19 +66,19 @@
 					<p class="text-default text-white text-justify sub-text mb-2">Annually, we offer complimentary flight tickets to one lucky devotee
 						among the Ayyappa devotees registering with us for the pilgrimage to the Sabarimala Temple in Kerala. This gesture adds an extra
 						element of excitement and anticipation to the pilgrimage journey, making it even more special for our valued patrons.</p>
-					<ul id="lightgallery" class="list-unstyled row">
+					<ul id="lightgallery" class=" lightgallery list-unstyled row">
 						<li class="col-xs-6 col-sm-4 col-md-4 col-xl-4 mb-5 border-bottom-0" 
 						data-responsive="../assets/images/events/freetickets/kerala1.jpg" 
 						data-src="../assets/images/events/freetickets/kerala1.jpg" data-sub-html="<h4>Gallery Image 1</h4><p> Nursery Pictures</p>">
 							<a href="javascript:void(0)">
-								<img class="img-responsive br-5 wp-100" src="../assets/images/events/freetickets/kerala1.jpg" alt="Thumb-1">
+								<img class="img-responsive br-5 wp-100 gallery-image" src="../assets/images/events/freetickets/kerala1.jpg" alt="Thumb-1">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-4 col-md-4 col-xl-4 mb-5 border-bottom-0" 
 						data-responsive="../assets/images/media/kerala2.jpg" 
 						data-src="../assets/images/events/freetickets/kerala2.jpg" data-sub-html=" <h4>Gallery Image 2</h4><p> Nursery Pictures</p>">
 							<a href="javascript:void(0)">
-								<img class="img-responsive br-5 wp-100" src="../assets/images/events/freetickets/kerala2.jpg" alt="Thumb-2">
+								<img class="img-responsive br-5 wp-100 gallery-image" src="../assets/images/events/freetickets/kerala2.jpg" alt="Thumb-2">
 							</a>
 						</li>
 
@@ -86,14 +86,14 @@
 						data-responsive="../assets/images/events/freetickets/kerala3.jpg" 
 						data-src="../assets/images/events/freetickets/kerala3.jpg" data-sub-html="<h4>Gallery Image 3</h4><p> Nursery Pictures</p>">
 							<a href="javascript:void(0)">
-								<img class="img-responsive br-5 wp-100" src="../assets/images/events/freetickets/kerala3.jpg" alt="Thumb-1">
+								<img class="img-responsive br-5 wp-100 gallery-image" src="../assets/images/events/freetickets/kerala3.jpg" alt="Thumb-1">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-4 col-md-4 col-xl-4 mb-5 border-bottom-0" 
 						data-responsive="../assets/images/events/freetickets/kerala4.webp" 
 						data-src="../assets/images/events/freetickets/kerala4.webp" data-sub-html="<h4>Gallery Image 4</h4><p> Nursery Pictures</p>">
 							<a href="javascript:void(0)">
-								<img class="img-responsive br-5 wp-100" src="../assets/images/events/freetickets/kerala4.webp" alt="Thumb-2">
+								<img class="img-responsive br-5 wp-100 gallery-image" src="../assets/images/events/freetickets/kerala4.webp" alt="Thumb-2">
 							</a>
 						</li>
 					</ul>
